@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jedishao23(Shuai Shao)
+- 👋 Hi, I’m @jedishao23 (Shuai Shao)
 - 👀 I’m interested in software refactoring, program analysis. 
 - 📫 How to reach me shaoshuai2326@gmail.com
 
